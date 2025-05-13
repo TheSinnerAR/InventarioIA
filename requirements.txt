@@ -1,0 +1,7 @@
+SQLAlchemy
+psycopg2-binary
+pandas
+scikit-learn
+pulp
+python-dotenv
+openpyxl
